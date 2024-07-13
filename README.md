@@ -1,4 +1,4 @@
-# Snake Vanilla
+# Snake - VanillaJS
 
 ## Description
 A simple and classic Snake game implemented in vanilla JavaScript. This project aims to demonstrate basic game development concepts using HTML, CSS, and JavaScript without any external libraries.
